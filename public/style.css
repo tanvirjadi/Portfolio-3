@@ -1,0 +1,76 @@
+h1{
+    background-color: blue;
+    font-family: 'Caprasimo', cursive;
+    font-size: 50px;
+}
+
+h2{
+    background-color: aquamarine;
+}
+
+#h2 {
+    font-size: 25px;
+    background-color: lightslategray;
+     font-family: 'Agdasima', sans-serif;
+}
+
+#krish1 {
+    color: red;
+}
+
+#krish2 {
+    color: darkred;
+}
+
+#movie3 {
+color: blue;
+}
+
+img {
+    border: 15px solid black;
+    padding: 0%;
+    margin-left: 260px;
+}
+
+p {
+    font-size: 20px;
+    background-color: azure;
+}
+
+*{
+    background-color: antiquewhite;
+}
+
+a {
+    color: blue;
+    background-color: skyblue;
+    font-size: 15pt;
+}
+
+#items {
+    background-color: blueviolet;
+}
+
+#map {
+    background-color: darksalmon;
+}
+
+ul {
+    font-size: larger;
+    background-color: aqua;
+}
+
+li {
+    background-color: aqua;
+}
+
+#h1 {
+    background-color: chocolate;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.h2 {
+    background-color: deeppink;
+    font-family: 'Fasthand', cursive;
+}
+
